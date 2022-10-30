@@ -12,6 +12,6 @@ The final score is shown at the end.
 
 Users can quit the game anytime by pressing q or Q. 
 
-[You can play the quiz directly here](https://replit.com/@SwapnilBawane/Do-you-know-Mumbai-Quiz?embed=1&output=1)
+[You can play the quiz directly here](https://replit.com/@SwapnilBawane/Do-you-know-Mumbai-Quiz-Chalk-version?embed=1&output=1)
 
 If you liked the game, you can share it with your friends. 
